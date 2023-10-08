@@ -11,7 +11,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "b042e415eb5851504ce4a247c4b7e342
 "assets/assets/images/lexis_logo.png": "22fe1a77db2bc30dd7725ef14cf59b03",
 "assets/assets/images/metawear_logo.webp": "9ad2aab925cf1a01f64d9063e0e861d1",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/fonts/MaterialIcons-Regular.otf": "e37070e56326bcb6b296f4e8b571c650",
+"assets/fonts/MaterialIcons-Regular.otf": "d18f9686ff34406949697b829f147f4a",
 "assets/NOTICES": "76384afb3bda36b084061fc649220aef",
 "assets/packages/simple_barcode_scanner/assets/barcode.html": "55dd479b440ade30760a1b3a4db300f1",
 "assets/packages/simple_barcode_scanner/assets/html5-qrcode.min.js": "157c564823c850c8832b8bc75b392526",
@@ -29,12 +29,12 @@ const RESOURCES = {"assets/AssetManifest.bin": "b042e415eb5851504ce4a247c4b7e342
 "icons/Icon-512.png": "740c027c83034c1b89529610f5d8f0d4",
 "icons/Icon-maskable-192.png": "08cd71fb61ad351aad2938950c199769",
 "icons/Icon-maskable-512.png": "14346c822e70aa67bd712b6e09b697b5",
-"index.html": "8b18e7d88f60d2d6b025a0f74d2c60f1",
-"/": "8b18e7d88f60d2d6b025a0f74d2c60f1",
-"main.dart.js": "311a6e514c80be291467c11093478556",
+"index.html": "56c33d142c8887486aec0ccef6ec9248",
+"/": "56c33d142c8887486aec0ccef6ec9248",
+"main.dart.js": "c579e8eb0a2af67b82dff80d7e8fe852",
 "manifest.json": "0d6f89bc1418025e2d5b20590e887877",
 "redirect.html": "19e98d49215b71d0b87a5bcb457a5550",
-"version.json": "aa7ee73010c68207e8e5db2618f4841c"};
+"version.json": "0257a3e87fa89184fb893f4c1cba4696"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
