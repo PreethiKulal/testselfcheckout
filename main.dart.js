@@ -58910,12 +58910,8 @@ j=A.a31(s,h,new A.uf(h,h,h,h,p,B.eX,h,h,h,h,h,h,h,h),B.Ur,B.aB,h,A.akc(B.bW,h,h,
 A.aq("web view",h)
 s=window.navigator.userAgent
 s.toString
-A.aq("You are using",s)
-if(B.c.n(s,"Chrome"))i="Google Chrome"
-else if(B.c.n(s,"Firefox"))i="Mozilla Firefox"
-else if(B.c.n(s,"Edge"))i="Microsoft Edge"
-else if(B.c.n(s,"Safari"))i="Safari"
-else i=B.c.n(s,"Samsung")?"Samsung":"Unknown"
+A.aq("You are using","")
+i=B.c.n(s,"Samsung")?"Samsung":"Unknown"
 s=this.c
 if(s.length===0)s=new A.LT(i,h)
 else{$.ed()
