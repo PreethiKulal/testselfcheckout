@@ -58919,8 +58919,10 @@ s=this.c
 if(s.length===0)s=new A.LT(i,h)
 else{$.ed()
 s=s==="reg_status_otp"?new A.Ab(h,h):B.qE}return new A.I4(s,"Self Checkout",j,j,B.akM,B.a7F,B.Cm,h)},
-ay1(){A.ap("check is dark mode enabled",null)
-var s=window.matchMedia("(prefers-color-scheme: dark)").matches
+ay1(){var s=window.matchMedia("(prefers-color-scheme:light)").matches
+s.toString
+A.ap("check is dark mode enabled",s)
+s=window.matchMedia("(prefers-color-scheme: light)").matches
 s.toString
 if(s)return!0
 else return!1}}
