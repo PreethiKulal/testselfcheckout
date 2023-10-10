@@ -58922,10 +58922,10 @@ s=s==="reg_status_otp"?new A.Ab(h,h):B.qE}return new A.I4(s,"Self Checkout",j,j,
 ay1(){var s=window.matchMedia("(prefers-color-scheme:light)").matches
 s.toString
 A.ap("check is dark mode enabled",s)
-s=window.matchMedia("(prefers-color-scheme: light)").matches
+s=window.matchMedia("(prefers-color-scheme: dark)").matches
 s.toString
 if(s)return!0
-else return!1}}
+return!1}}
 A.u6.prototype={
 d4(){var s=this
 return A.af(["addressId",s.a,"contactPerson",s.b,"contactPhoneNumber",s.c,"addressLine1",s.d,"addressLine2",s.e,"addressLine3",s.f,"city",s.r,"district",s.w,"state",s.x,"country",s.y,"landmark",s.z,"locationUrl",s.Q,"pinCode",s.as,"defaultDeliveryAddress",s.at,"tag",s.ax,"label",s.ay,"latitude",s.ch,"longitude",s.CW],t.N,t.z)}}
